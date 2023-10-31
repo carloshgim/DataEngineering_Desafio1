@@ -15,3 +15,6 @@ El objetivo principal de este proyecto es:
 ## API Utilizada
 
 Para este proyecto, se seleccionó la API de OpenWeather, que proporciona datos del pronóstico del tiempo para la Ciudad de México. El script extrae información relacionada con la temperatura y las condiciones climáticas.
+
+![OpenWeather Logo](https://assets.zabbix.com/img/brands/openweather.jpg)
+
